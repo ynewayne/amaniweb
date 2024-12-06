@@ -978,7 +978,7 @@ blockquote {
 #gallery img {
     max-width: 960px;   /* Ensure images do not exceed 950px */
     max-height: 200px;  /* Ensure images do not exceed 531px */
-    width: 100%;        /* Make images responsive */
+    width: 60%;        /* Make images responsive */
     height: auto;       /* Maintain aspect ratio */
 }
 
